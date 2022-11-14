@@ -1,149 +1,143 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/project1.jpg",
+            "title": "Photography Site",
+            "bodyText": "- A Website made in HTML and CSS -  Fully customisable,",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/sumaiyaoishee61/photography_html-css"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://sumaiyaoishee61.github.io/photography_html-css/"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "HTML",
+                "CSS",
+                "photography site"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/project2.jpg",
+            "title": "FOOD Site",
+            "bodyText": "- Food Site which is very important for nowadays.Everyone loves food and wants  order the food in online.This site is helpfull for them to order online and make their life easier",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/sumaiyaoishee61/FooD_Js"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://sumaiyaoishee61.github.io/FooD_Js/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
                 "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "React JS"
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/project3.jpg",
+            "title": "POP_up Model UI Design",
+            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for - Option to select class slots and **custom time- Option to put on Vibrate instead of Silent.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/sumaiyaoishee61/PoP_uP-MoDal"
                 }
             ],
             "tags" : [
                 "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "HTML",
+                "CSS"
+                
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "title": "Sweet Resto..",
+            "bodyText": "- Food Site which is very important for nowadays.Everyone loves food and wants  order the food in online.This site is helpfull for them to order online and make their life easier.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/sumaiyaoishee61/sweet-restaurant"
                 }
             ],
             "tags" : [
                 "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "BootStrap",
+                "HTML",
+                "CSS",
+                "React JS"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "title": "E-commerce Site",
+            "bodyText": "- Nowadays maximum people are busy with their daily life.Those kind of e-commerce site helpful for them for shopping",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/sumaiyaoishee61/ecomerce-trailclone"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "Java",
+                "BootStrap",
+                "HTML",
+                "CSS",
+                "React JS"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "Food site",
+            "bodyText": "- Design for Food website without using UI/UX.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "href": "https://github.com/sumaiyaoishee61/food-shop"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "BootStrap",
+                "HTML",
+                "CSS"
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "title": "Calculator",
+            "bodyText": "- Design claculator without using UI/UX.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/sumaiyaoishee61/CalCulaToR_js"
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
+                "BootStrap",
+                "HTML",
+                "CSS",
                 "JavaScript"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "title": "Quiz App",
+            "bodyText": "- Design quiz app without using UI/UX.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/sumaiyaoishee61/QuiZ_aPP"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "BootStrap",
+                "HTML",
+                "CSS",
+                "JavaScript"
             ]
         }
     ]
